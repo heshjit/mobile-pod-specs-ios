@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version      = "5.1.2"
   s.summary      = "Nielsen tracking framework for iOS"
   s.description  = <<-DESC
-			This is a private pod for nielsen framework.  	
+			This is a private pod for nielsen.  	
                    DESC
   s.homepage     = "https://github.com/heshjit/mobile-library-nielsen-ios/blob/master/README.md"
   s.license      = "Commercial"
